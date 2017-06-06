@@ -1,0 +1,8 @@
+{
+    "name": "ronheywood/ckeditor-imagebrowser",
+    "autoload": {
+        "psr-0" : {
+            "ronheywood\\ckeditor-imagebrowser" : "src"
+        }
+    }
+}
